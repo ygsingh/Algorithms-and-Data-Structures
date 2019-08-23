@@ -20,8 +20,4 @@ Find the maximum product of two distinct numbers in a sequence of non-negative i
 ## 2. Fibonacci Sequence
 ### Definition 
 
-The code that was used to render this formula is just
-
-    $$
-    \frac{n!}{k!(n-k)!} = {n \choose k}
-    $$
+A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedia.org/wiki/Fibonacci_number). Our goal in this problem is to print sequence to given number of elements. 
