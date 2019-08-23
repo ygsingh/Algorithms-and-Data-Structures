@@ -20,14 +20,8 @@ Find the maximum product of two distinct numbers in a sequence of non-negative i
 ## 2. Fibonacci Sequence
 ### Definition 
 
-latexImg = function(latex){
+The code that was used to render this formula is just
 
-    link = paste0('http://latex.codecogs.com/gif.latex?',
-           gsub('\\=','%3D',URLencode(latex)))
-
-    link = gsub("(%..)","\\U\\1",link,perl=TRUE)
-    return(paste0('![](',link,')'))
-}
-
-
-r latexImg('a = \\frac{b}{c}')
+    $$
+    \frac{n!}{k!(n-k)!} = {n \choose k}
+    $$
