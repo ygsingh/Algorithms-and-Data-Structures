@@ -20,4 +20,12 @@ Find the maximum product of two distinct numbers in a sequence of non-negative i
 ## 2. Fibonacci Sequence
 ### Definition 
 
-A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedia.org/wiki/Fibonacci_number). Our goal in this problem is to print sequence to given number of elements. 
+A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedia.org/wiki/Fibonacci_number). Our goal in this problem is to print the nth Fibonacci number in the sequence. For example: <br />
+**Input:**  <br /> 
+```cpp
+1
+```
+**Output:**  <br /> 
+```cpp
+1
+```
