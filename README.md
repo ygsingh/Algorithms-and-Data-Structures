@@ -21,6 +21,7 @@ Find the maximum product of two distinct numbers in a sequence of non-negative i
 ### Definition 
 
 A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedia.org/wiki/Fibonacci_number). Our goal in this problem is to print the nth Fibonacci number in the sequence. For example: <br />
+### Sample 1
 **Input:**  <br /> 
 ```cpp
 1
@@ -29,3 +30,14 @@ A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedi
 ```cpp
 1
 ```
+### Sample 2
+**Input:**  <br /> 
+```cpp
+8
+```
+**Output:**  <br /> 
+```cpp
+21
+```
+
+
