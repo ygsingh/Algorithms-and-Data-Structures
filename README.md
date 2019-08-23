@@ -19,4 +19,15 @@ Find the maximum product of two distinct numbers in a sequence of non-negative i
 
 ## 2. Fibonacci Sequence
 ### Definition 
-$\frac{\frac{x}{1}}{x - y}$
+
+latexImg = function(latex){
+
+    link = paste0('http://latex.codecogs.com/gif.latex?',
+           gsub('\\=','%3D',URLencode(latex)))
+
+    link = gsub("(%..)","\\U\\1",link,perl=TRUE)
+    return(paste0('![](',link,')'))
+}
+
+
+r latexImg('a = \\frac{b}{c}')
