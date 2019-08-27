@@ -40,4 +40,4 @@ A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedi
 21
 ```
 **Equation**
-[](https://latex.codecogs.com/gif.latex?F%20%3D%20ma)
+![](https://latex.codecogs.com/gif.latex?F%20%3D%20ma)
