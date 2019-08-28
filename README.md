@@ -1,8 +1,11 @@
 # Algorithmic Toolbox course on Coursera
 Following codes are my attempt at solving the selected few programming challenges of the ![Algorithmic Toolbox course](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome). Here I put these solutions, which are only for your reference purpose. And I hope you don't copy any part of the code.
 ## Table of Content
-## [Maximum Pairwise Product](#maxprod)
-## [Fibonacci Sequence](#fibseq)
+- [Maximum Pairwise Product](#maxprod)
+- [Fibonacci Sequence](#fibseq)
+- [Greatest Common Divisor](#gcd)
+- [Least Common Multiple](#lcm) 
+
 ## <a name="maxprod"></a> 1. Maximum Pairwise Product 
 Find the maximum product of two distinct numbers in a sequence of non-negative integers. <br /> 
 **Problem Statement:** Given a sequence of non-negative integers ![](https://latex.codecogs.com/gif.latex?a_1%2C%20%5Cdots%20%2C%20a_n), compute <p align="center">
@@ -57,7 +60,7 @@ A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedi
 ### Code
 [Fibonacci Sequence](https://github.com/ygsingh/cpp_codes/blob/master/fibonacci.cpp)
 
-## 3. Greatest Common Divisor
+## <a name="gcd"></a> 3. Greatest Common Divisor
 Greatest common divisor (GCD) of two non-negative integers _a_ and _b_ (which are both not equal to zero) is the gratest integer _c_ that divides both _a_ and _b_. Algorithm is implemented based on [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm) for computing the GCD.
 
 **Problem Statement:** Given two integers  _a_ and _b_, find their greatest common divisor.<br />
@@ -78,7 +81,7 @@ Greatest common divisor (GCD) of two non-negative integers _a_ and _b_ (which ar
 ### Code
 [GCD](https://github.com/ygsingh/cpp_codes/blob/master/gcd.cpp)
 
-## 4. Least Common Multiple
+## <a name="lcm"></a>  4. Least Common Multiple
 Least common multiple (LCM) of two positive integers _a_ and _b_ is the least positive integer _m_ that is divisible by both _a_ and _b_.
 
 **Problem Statement:** Given two integers _a_ and _b_, find their least common multiple.<br />
