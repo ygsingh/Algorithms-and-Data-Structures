@@ -57,7 +57,7 @@ A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedi
 [Fibonacci Sequence](https://github.com/ygsingh/cpp_codes/blob/master/fibonacci.cpp)
 
 ## 3. Greatest Common Divisor
-Greatest common divisor (GCD) of two non-negative integers _a_ and _b_ (which are both not equal to zero) is the gratest integer _c_ that divides both _a_ and _b_.
+Greatest common divisor (GCD) of two non-negative integers _a_ and _b_ (which are both not equal to zero) is the gratest integer _c_ that divides both _a_ and _b_. Algorithm is implemented based on [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm) for computing the GCD.
 
 **Problem Statement:** Given two integers  _a_ and _b_, find their greatest common divisor.<br />
 
