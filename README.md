@@ -23,7 +23,6 @@ Find the maximum product of two distinct numbers in a sequence of non-negative i
 [Maximum Pairwise Product](https://github.com/ygsingh/cpp_codes/blob/master/max_pairwise_product.cpp)
 
 ## 2. Fibonacci Sequence
-### Definition 
 
 A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedia.org/wiki/Fibonacci_number). </br>
 **Problem Statement:** Ginen an integer _n_, find the _nth_ Fibonacci number ![](https://latex.codecogs.com/gif.latex?F_n) <br />
