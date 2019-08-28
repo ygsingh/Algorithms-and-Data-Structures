@@ -51,5 +51,5 @@ A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedi
 ```cpp
 21
 ```
-**Equation**
-![](https://latex.codecogs.com/gif.latex?F%20%3D%20ma)
+### Code
+[Fibonacci Sequence](https://github.com/ygsingh/cpp_codes/blob/master/fibonacci.cpp)
