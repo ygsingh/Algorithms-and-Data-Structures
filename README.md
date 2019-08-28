@@ -25,7 +25,15 @@ Find the maximum product of two distinct numbers in a sequence of non-negative i
 ## 2. Fibonacci Sequence
 ### Definition 
 
-A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedia.org/wiki/Fibonacci_number). Our goal in this problem is to print the nth Fibonacci number in the sequence. For example: <br />
+A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedia.org/wiki/Fibonacci_number). </br>
+**Problem Statement:** Ginen an integer _n_, find the _nth_ Fibonacci number ![](https://latex.codecogs.com/gif.latex?F_n) <br />
+
+**Input format:** The input consists of a single integer _n_.
+
+**Output format:** Output ![](https://latex.codecogs.com/gif.latex?F_n)
+
+**Constraint:** ![](https://latex.codecogs.com/gif.latex?0%20%5Cleq%20n%20%5Cleq%2045)
+
 ### Sample 1
 **Input:**  <br /> 
 ```cpp
