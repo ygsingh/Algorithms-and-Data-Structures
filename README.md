@@ -1,5 +1,7 @@
-# Algorithm and Data Structure 
-This is a repository of various algorithm and data structure problems.
+# Algorithmic Toolbox course on Coursera
+Following codes are my attempt at solving the selected few programming challenges of the ![Algorithmic Toolbox course](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome). Here I put these solutions, which are only for your reference purpose. And I hope you don't copy any part of the code.
+
+
 ## 1. Maximum Pairwise Product
 Find the maximum product of two distinct numbers in a sequence of non-negative integers. <br /> 
 **Problem Statement:** Given a sequence of non-negative integers ![](https://latex.codecogs.com/gif.latex?a_1%2C%20%5Cdots%20%2C%20a_n), compute <p align="center">
@@ -53,3 +55,41 @@ A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedi
 ```
 ### Code
 [Fibonacci Sequence](https://github.com/ygsingh/cpp_codes/blob/master/fibonacci.cpp)
+
+## 3. Greatest Common Divisor
+Greatest common divisor (GCD) of two non-negative integers _a_ and _b_ (which are both not equal to zero) is the gratest integer _c_ that divides both _a_ and _b_.
+
+**Problem Statement:** Given two integers  _a_ and _b_, find their greatest common divisor.<br />
+
+**Input format:** The two integers  _a_, _b_ are given in the same line separated by space.<br />
+**Output format:** Output GCD.<br />
+**Constrains:** ![](https://latex.codecogs.com/gif.latex?1%20%5Cleq%20a%2Cb%20%5Cleq%202%20%5Ccdot%2010%5E9)
+
+### Sample
+**Input:**  <br /> 
+```cpp
+18 35
+```
+**Output:**  <br /> 
+```cpp
+1
+```
+### Code
+[GCD](https://github.com/ygsingh/cpp_codes/blob/master/gcd.cpp)
+
+## 4. Name of the problem
+
+**Problem Statement:** <br />
+
+**Input format:** <br />
+**Output format:** <br />
+**Constrains:**
+
+### Sample
+**Input:**  <br /> 
+```cpp
+```
+**Output:**  <br /> 
+```cpp
+```
+### Code
