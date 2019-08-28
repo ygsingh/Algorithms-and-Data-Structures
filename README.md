@@ -25,9 +25,9 @@ Find the maximum product of two distinct numbers in a sequence of non-negative i
 ```cpp
 24
 ```
-### Code
+### Code <p style='text-align: right;'> [Back To Top](#tableoc) </p>
 [Maximum Pairwise Product](https://github.com/ygsingh/cpp_codes/blob/master/max_pairwise_product.cpp)
-<p style='text-align: right;'> [Back To Top](#tableoc) </p>
+
 
 ## <a name="fibseq"></a> Fibonacci Sequence 
 A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedia.org/wiki/Fibonacci_number). </br>
@@ -57,9 +57,9 @@ A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedi
 ```cpp
 21
 ```
-### Code
+### Code <p style='text-align: right;'> [Back To Top](#tableoc) </p>
 [Fibonacci Sequence](https://github.com/ygsingh/cpp_codes/blob/master/fibonacci.cpp)
-<p style='text-align: right;'> [Back To Top](#tableoc) </p>
+
 
 ## <a name="gcd"></a> Greatest Common Divisor 
 Greatest common divisor (GCD) of two non-negative integers _a_ and _b_ (which are both not equal to zero) is the gratest integer _c_ that divides both _a_ and _b_. Algorithm is implemented based on [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm) for computing the GCD.
@@ -79,9 +79,9 @@ Greatest common divisor (GCD) of two non-negative integers _a_ and _b_ (which ar
 ```cpp
 1
 ```
-### Code
+### Code <p style='text-align: right;'> [Back To Top](#tableoc) </p>
 [GCD](https://github.com/ygsingh/cpp_codes/blob/master/gcd.cpp)
-<p style='text-align: right;'> [Back To Top](#tableoc) </p>
+
 
 ## <a name="lcm"></a>  Least Common Multiple 
 Least common multiple (LCM) of two positive integers _a_ and _b_ is the least positive integer _m_ that is divisible by both _a_ and _b_.
@@ -101,6 +101,6 @@ Least common multiple (LCM) of two positive integers _a_ and _b_ is the least po
 ```cpp
 24
 ```
-### Code
+### Code <p style='text-align: right;'> [Back To Top](#tableoc) </p>
 [LCM](https://github.com/ygsingh/cpp_codes/blob/master/lcm.cpp)
-<p style='text-align: right;'> [Back To Top](#tableoc) </p>
+
