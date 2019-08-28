@@ -26,8 +26,7 @@ Find the maximum product of two distinct numbers in a sequence of non-negative i
 24
 ```
 ### Code 
-[Maximum Pairwise Product](https://github.com/ygsingh/cpp_codes/blob/master/max_pairwise_product.cpp)
-
+[Maximum Pairwise Product](https://github.com/ygsingh/cpp_codes/blob/master/max_pairwise_product.cpp)<br /> 
 [Back To Top](#tableoc)
 
 ## <a name="fibseq"></a> Fibonacci Sequence 
@@ -59,7 +58,7 @@ A detailed explanation of Fibonacci Sequence is given [here](https://en.wikipedi
 21
 ```
 ### Code 
-[Fibonacci Sequence](https://github.com/ygsingh/cpp_codes/blob/master/fibonacci.cpp)
+[Fibonacci Sequence](https://github.com/ygsingh/cpp_codes/blob/master/fibonacci.cpp)<br /> 
 [Back To Top](#tableoc)
 
 ## <a name="gcd"></a> Greatest Common Divisor 
@@ -81,7 +80,7 @@ Greatest common divisor (GCD) of two non-negative integers _a_ and _b_ (which ar
 1
 ```
 ### Code 
-[GCD](https://github.com/ygsingh/cpp_codes/blob/master/gcd.cpp)
+[GCD](https://github.com/ygsingh/cpp_codes/blob/master/gcd.cpp)<br /> 
 [Back To Top](#tableoc)
 
 ## <a name="lcm"></a>  Least Common Multiple 
@@ -103,5 +102,5 @@ Least common multiple (LCM) of two positive integers _a_ and _b_ is the least po
 24
 ```
 ### Code
-[LCM](https://github.com/ygsingh/cpp_codes/blob/master/lcm.cpp)
+[LCM](https://github.com/ygsingh/cpp_codes/blob/master/lcm.cpp)<br /> 
 [Back To Top](#tableoc)
