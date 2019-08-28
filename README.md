@@ -77,19 +77,23 @@ Greatest common divisor (GCD) of two non-negative integers _a_ and _b_ (which ar
 ### Code
 [GCD](https://github.com/ygsingh/cpp_codes/blob/master/gcd.cpp)
 
-## 4. Name of the problem
+## 4. Least Common Multiple
+Least common multiple (LCM) of two positive integers _a_ and _b_ is the least positive integer _m_ that is divisible by both _a_ and _b_.
 
-**Problem Statement:** <br />
+**Problem Statement:** Given two integers _a_ and _b_, find their least common multiple.<br />
 
-**Input format:** <br />
-**Output format:** <br />
-**Constrains:**
+**Input format:** The two integers _a_ and _b_ are given in the same line seperated by space.<br />
+**Output format:** Output LCM.<br />
+**Constrains:** ![](https://latex.codecogs.com/gif.latex?1%20%5Cleq%20a%2Cb%20%5Cleq%202%20%5Ccdot%2010%5E7)
 
 ### Sample
 **Input:**  <br /> 
 ```cpp
+6 8
 ```
 **Output:**  <br /> 
 ```cpp
+24
 ```
 ### Code
+[LCM](https://github.com/ygsingh/cpp_codes/blob/master/lcm.cpp)
